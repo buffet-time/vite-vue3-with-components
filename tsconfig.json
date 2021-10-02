@@ -1,0 +1,27 @@
+{
+	"compilerOptions": {
+		"target": "ES2018",
+		"module": "esnext",
+		"moduleResolution": "node",
+		"lib": ["esnext", "dom"],
+		"strict": true,
+		"alwaysStrict": true,
+		"useDefineForClassFields": true,
+		"sourceMap": false,
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"experimentalDecorators": true,
+		"noFallthroughCasesInSwitch": true,
+		"isolatedModules": true,
+		"noEmit": true,
+		"noImplicitAny": true,
+		"noImplicitReturns": true,
+		"noImplicitThis": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"skipLibCheck": true,
+		"allowSyntheticDefaultImports": true,
+		"removeComments": true,
+		"pretty": true
+	}
+}
